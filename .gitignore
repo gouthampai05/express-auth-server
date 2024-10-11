@@ -1,0 +1,35 @@
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.out
+
+# Build output
+dist
+build
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE or editor specific files
+.idea/
+.vscode/
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
